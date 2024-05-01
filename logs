@@ -1,0 +1,105 @@
+14:19:20.035 [main]INFO   Logger21 - brwser
+14:19:38.911 [main]INFO   Logger21 - url
+14:19:41.440 [main]INFO   Logger21 - brwser
+14:20:08.648 [main]INFO   Logger21 - url
+17:07:46.991 [main]WARN   Logger2112 - warning message
+17:07:51.820 [main]INFO   Logger2112 - This is a url
+17:08:01.814 [main]INFO   Logger2112 - username
+17:08:02.182 [main]INFO   Logger2112 - This is a password
+17:08:02.306 [main]INFO   Logger2112 - This is a submitbutton
+11:32:51.806 [main]DEBUG  org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:32:51.837 [main]DEBUG  org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:32:52.408 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:32:52.414 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:32:52.415 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:32:52.417 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:32:52.418 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:32:52.420 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:32:52.444 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+11:32:52.447 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:32:52.454 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+11:32:52.457 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:32:52.458 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+11:32:52.460 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:32:52.462 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+11:32:52.464 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+11:32:52.575 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+11:32:52.576 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+11:32:52.768 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+11:32:52.831 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+11:32:52.876 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+11:32:52.926 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+11:32:52.948 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+11:32:52.958 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+11:32:52.981 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+11:32:52.992 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+11:32:53.004 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+11:32:53.011 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+11:32:53.017 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+11:32:53.021 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+11:32:53.028 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+11:32:53.036 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+11:32:53.043 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+11:32:53.083 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+11:32:53.110 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+11:32:53.118 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+11:32:53.143 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+11:32:53.149 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+11:32:53.153 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+11:32:53.161 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+11:32:53.170 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+11:32:53.197 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+11:32:53.214 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+11:32:53.221 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+11:32:53.230 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+11:32:53.292 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+11:32:53.363 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+11:32:53.368 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+12:01:58.119 [main]DEBUG  org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:01:58.170 [main]DEBUG  org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:01:59.215 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:01:59.220 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:01:59.222 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:01:59.223 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:01:59.223 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:01:59.227 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:01:59.251 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:01:59.253 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:01:59.262 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:01:59.264 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:01:59.265 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:01:59.267 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:01:59.269 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:01:59.270 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+12:01:59.377 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:01:59.384 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+12:01:59.830 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+12:01:59.868 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+12:01:59.913 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+12:01:59.996 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+12:02:00.030 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+12:02:00.037 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+12:02:00.051 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+12:02:00.057 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+12:02:00.062 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+12:02:00.068 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+12:02:00.075 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+12:02:00.079 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+12:02:00.097 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+12:02:00.104 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+12:02:00.110 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+12:02:00.131 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+12:02:00.163 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+12:02:00.171 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+12:02:00.196 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+12:02:00.202 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+12:02:00.206 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+12:02:00.215 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+12:02:00.221 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+12:02:00.237 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+12:02:00.262 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+12:02:00.280 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+12:02:00.290 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+12:02:00.340 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+12:02:00.427 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+12:02:00.434 [main]TRACE  org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
