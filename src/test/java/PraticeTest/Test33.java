@@ -16,6 +16,6 @@ public class Test33 {
 		lgg.info("click on submit button");
 		
 	}
-	C:\Users\admin\eclipse-workspace\seleniumframework
+	
 
 }
